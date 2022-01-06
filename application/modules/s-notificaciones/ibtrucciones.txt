@@ -1,0 +1,4 @@
+es llmado por le inicio del sistema
+en: application/templates/header-design.php
+
+con:  <script src="application/modules/s-notificaciones/notificacioneducheck.js"></script>

@@ -1,0 +1,29 @@
+
+.color-tabla{
+	background: #e45c5f ;
+	color: white;
+/*	background-image: -webkit-linear-gradient(bottom, #7f7e7e 1%,#c6c6c6);
+background-image: -moz-linear-gradient(bottom, #7f7e7e 1%,#c6c6c6);
+background-image: -ms-linear-gradient(bottom, #7f7e7e 1%,#c6c6c6);
+background-image: -o-linear-gradient(bottom, #7f7e7e 1%,#c6c6c6);*/
+}
+
+.color-panel{
+	background: transparent;
+	color: black;
+}
+
+.color-pie{
+	background:#f5f5f5;
+}
+
+/*.color-panel{
+	color: white;
+	background-image: -webkit-linear-gradient(bottom, #B71C1C 10%,#C62828);
+background-image: -moz-linear-gradient(bottom, #B71C1C 10%,#C62828);
+background-image: -ms-linear-gradient(bottom, #B71C1C 10%,#C62828);
+background-image: -o-linear-gradient(bottom, #B71C1C 10%,#C62828);
+}*/
+.tamanio-text {
+	font-size: : 16px;
+}

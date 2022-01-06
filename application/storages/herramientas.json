@@ -1,0 +1,22 @@
+[
+	{
+		"menu": "Administrador de procesos",
+		"icono": "glyphicon glyphicon-scale",
+		"ruta": "?/administrador-procesos/principal"
+	},
+	{
+		"menu": "Asignador de permisos",
+		"icono": "glyphicon glyphicon-lock",
+		"ruta": "?/asignador-permisos/principal"
+	},
+	{
+		"menu": "Generador de menús",
+		"icono": "glyphicon glyphicon-list-alt",
+		"ruta": "?/generador-menus/principal"
+	},
+	{
+		"menu": "Generador de módulos",
+		"icono": "glyphicon glyphicon-th-large",
+		"ruta": "?/generador-modulos/principal"
+	}
+]

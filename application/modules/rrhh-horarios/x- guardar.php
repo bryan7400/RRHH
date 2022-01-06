@@ -1,0 +1,4 @@
+<?php
+//SOLO PARA OTORGAR PERMISOS
+
+?>
