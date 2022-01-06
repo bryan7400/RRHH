@@ -157,7 +157,7 @@ $("#form_felicitacion").validate({
    
     
 </script> 
-<!--_____________________________________________________________________-->
+<!--Formulario para registro_____________________________________________________________________-->
   
  <form id="form_sancion" enctype="multipart/form-data">
 <div class="modal fade" id="modal_sancion" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
