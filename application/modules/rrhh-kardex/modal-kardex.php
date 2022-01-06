@@ -256,6 +256,7 @@ $("#form_sancion").validate({
     //una ves validado guardamos los datos en la DB
   submitHandler: function(form){
       //alert();
+      //guardar datos del formulario
       var datos = $("#form_sancion").serialize();     
       datos=datos+'&accion=guardar_sancion';
 

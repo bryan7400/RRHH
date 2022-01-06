@@ -391,7 +391,7 @@ function listarkardex(id_pers){
             //limpiamos la tabla
             dataTableFelici.clear().draw();
             dataTableSan.clear().draw();
-
+            //si todo salio bien
            
 
 
